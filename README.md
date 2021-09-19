@@ -2,7 +2,7 @@
 
 Author: Tianyi Tang
 
-## Install requirenments:
+## Install:
 
 1. pygame 2.0.1
 2. numpy 1.19.5
