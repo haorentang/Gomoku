@@ -10,4 +10,4 @@ Author: Tianyi Tang
 ## Run
 python main.py
 
-The golang is built by pygame. The AI algorithm is built based on game tree with 3 levels. I construct the evaluation function by giving each form(live three, live four) a score and figure out the crossing point with the highest total score. The alpha-beta purning algorithm is applied to optimize the search process. 
+The golang is built by pygame. The AI algorithm is built based on a game tree with 3 levels. I construct the evaluation function by giving each form(live three, live four) a score and figure out the crossing point with the highest total score. The alpha-beta purning algorithm is applied to optimize the search process. 
