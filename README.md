@@ -1,4 +1,4 @@
-# golang
+# Gomoku
 
 Author: Tianyi Tang
 
